@@ -1,0 +1,15 @@
+Bài 2: Viết chương trình tính giá trị trung bình của 5 số thực
+
+Đầu vào: Số thực thứ 1, số thực thứ 2, số thực thứ 3, số thực thứ 3, số thực thứ 4, số thực thứ 5
+Các bước xử lí:
+    B1: Tạo biến soThuc1 đại diện cho số thực thứ nhất, soThuc2 đại diện cho số thực thứ 2,
+    soThuc3 đại diện cho số thực thứ 3, soThuc4 đại diện cho số thực thứ 4, soThuc5 đại diện cho số thực thứ 5,
+    trungBinh đại diện cho giá trị trung bình của 5 số thực.
+
+    B2: Nhập giá trị cho các biến soThuc1, soThuc2, soThuc3, soThuc4, soThuc5 từ màn hình
+    
+    B3: Tính giá trị trung bình theo công thức: trungBinh = ( soTuc1 + soThuc2 + soThuc3 + soThuc4 + soThuc5) / 5
+    
+    B4: Xuất kết quả ra màn hình
+
+Đầu ra: Giá trị trung bình của 5 số thực

@@ -1,0 +1,13 @@
+Bài 3: Viết chương trình quy đổi USD qua VND
+
+Đầu vào: Số tiền USD 
+Các bước xử lí:
+    B1: Tạo biến tienUSD đại diện cho số tiền USD, giaQuyDoi đại diện cho giá trị quy đổi, tienVND đại diện cho số tiền VND được quy đổi
+
+    B2: Gán giá trị cho giaQuyDoi, nhập giá trị cho tienUSD từ màn hình
+    
+    B3: Tính giá trị trung bình theo công thức: tienVND = tienUSD * giaQuyDoi
+    
+    B4: Xuất kết quả ra màn hình
+
+Đầu ra: Số tiền VND được quy đổi từ USD

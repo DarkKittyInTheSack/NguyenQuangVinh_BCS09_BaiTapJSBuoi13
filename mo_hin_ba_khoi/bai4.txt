@@ -1,0 +1,17 @@
+Bài 4: Viết chương trình tính chu vi và diện tích hình chữ nhật
+
+Đầu vào: Chiều dài và chiều rộng của hình chữ nhật
+Các bước xử lí:
+    B1: Tạo biến chieuDai đại diện cho chiều dài của hình chữ nhật,
+     chieuRong đại diện cho chiều rộng của hình chữ nhật, 
+     dienTich đại diện cho giá trị diện tích hình chữ nhật,
+     chuVi đại diện cho giá trị chu vi của hình chữ nhật
+
+    B2: Nnập giá trị cho chieuDai và chieuRong từ màn hình
+    
+    B3: Tính giá trị chu vi của hình chữ nhật theo công thức: chuVi = ( chieuDai + chieuRong ) * 2
+        , giá trị diện tích của hình chữ nhật theo công thức : dienTich = chieuDai * chieuRong
+    
+    B4: Xuất kết quả ra màn hình
+
+Đầu ra: Giá trị chu vi và giá trị diện tích của hình chữ nhật

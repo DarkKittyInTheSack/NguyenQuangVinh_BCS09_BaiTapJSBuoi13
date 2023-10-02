@@ -1,0 +1,15 @@
+Bài 1: Viết chương trình tính tiền lương nhân viên
+
+Đầu vào: Số ngày làm của nhân viên
+Các bước xử lí:
+    B1: Tạo biến soNgayLam đại diện cho số ngày làm của nhân viên,
+        tienMoiNgay đại diện cho thu nhập một ngày làm,
+        tongThuNhap đại diện cho thu nhập của nhân viên theo tổng số ngày làm 
+
+    B2: Gán giá trị cho biến tienMoiNgay, nhận giá trị biến soNgayLam từ người đùng nhập vào
+    
+    B3: Tính tongThuNhap theo công thức: tongThuNhap = soNgayLam * tienMoiNgay
+    
+    B4: Xuất kết quả ra màn hình
+
+Đầu ra: Tiền lương nhân viên theo số ngày làm

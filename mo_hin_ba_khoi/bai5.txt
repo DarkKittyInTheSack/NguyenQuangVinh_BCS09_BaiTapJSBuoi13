@@ -1,0 +1,17 @@
+Bài 5: Viết chương trình tính tổng 2 ký số
+
+Đầu vào: Số có 2 chữ số
+Các bước xử lí:
+    B1: Tạo biến soDonVi đại diện cho chữ số hàng đơn vị của giá trị đầu vào,
+     soHangChuc đại diện cho chữ số hàng chục của giá trị đầu vào, 
+     tongKySo đại diện cho giá trị tổng của 2 chữ số,
+     kySo đại diện cho dữ liệu đầu vào
+
+    B2: Nnập giá trị cho kySo từ màn hình
+    
+    B3: Tính giá trị của soDonVi theo công thức: soDonVi = kySo %10,
+        soHangChuc = kySo/10, tongKySo = soDonVi + soHangChuc
+    
+    B4: Xuất kết quả ra màn hình
+
+Đầu ra: Giá trị tổng của hàng đơn vị vaf hàng chục của ký số đầu vào
